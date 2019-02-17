@@ -1,0 +1,10 @@
+	 0x080484de <+74>:	call   0x80483d0 <__isoc99_scanf@plt>
+=> 0x080484e3 <+79>:	mov    0x1c(%esp),%eax
+   0x080484e7 <+83>:	cmp    $0x149c,%eax
+   0x080484ec <+88>:	jne    0x804850d <main+121>
+
+print  0x149c
+5276
+
+c'est le mot de passe
+il te donne l'acces au level01
